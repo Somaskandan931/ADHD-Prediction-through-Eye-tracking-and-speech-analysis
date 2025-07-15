@@ -1,0 +1,31 @@
+Fixation Duration:
+
+Non-ADHD: Mean 300 ms (SD 50 ms) → Range approximately 200 ms to 400 ms.
+ADHD: Mean 350 ms (SD 50 ms) → Range approximately 250 ms to 450 ms.
+
+Saccadic Amplitude:
+
+Non-ADHD: Mean 5 degrees (SD 1 degree) → Range approximately 3 to 7 degrees.
+ADHD: Mean 6 degrees (SD 1 degree) → Range approximately 4 to 8 degrees.
+
+Saccadic Velocity:
+
+Non-ADHD: Mean 400 degrees/second (SD 50 degrees/second) → Range approximately 300 to 500 degrees/second.
+ADHD: Mean 350 degrees/second (SD 50 degrees/second) → Range approximately 250 to 450 degrees/second.
+
+Speech Rate:
+
+Non-ADHD: Mean 140 words/minute (SD 15 words/minute) → Range approximately 110 to 170 words/minute.
+ADHD: Mean 120 words/minute (SD 15 words/minute) → Range approximately 90 to 150 words/minute.
+
+Pitch Variability:
+
+Non-ADHD: Mean 20 Hz (SD 5 Hz) → Range approximately 10 to 30 Hz.
+ADHD: Mean 35 Hz (SD 10 Hz) → Range approximately 15 to 55 Hz.
+
+| Feature            | ADHD Typical Range   | Non-ADHD Typical Range | Notes                                                        |
+| ------------------ | -------------------- | ---------------------- | ------------------------------------------------------------ |
+| Jitter (%)         | 0.8 – 1.5            | 0.3 – 0.8              | Jitter is usually higher in ADHD due to unstable voice pitch |
+| Shimmer (%)        | 3 – 5                | 1 – 3                  | Shimmer reflects amplitude variation                         |
+| Pause Count        | 5 – 15 (per passage) | 2 – 6                  | ADHD often has more frequent pauses                          |
+| Pause Duration (s) | 0.2 – 1.0            | 0.1 – 0.5              | Longer pauses common in ADHD                                 |
