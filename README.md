@@ -23,33 +23,11 @@ ADHD is a common neurodevelopmental disorder characterized by inattention, hyper
 
 ```bash
 pip install -r requirements.txt
-Usage
-Collect or generate eye-tracking and speech data.
-
-Extract relevant features using the provided scripts.
-
-Train the ADHD prediction model:
-
-bash
-Copy
-Edit
-python train_model.py
-Evaluate model performance:
-
-bash
-Copy
-Edit
-python evaluate_model.py
-Repository Structure
-data/ — Contains synthetic and sample datasets.
-
-scripts/ — Data collection and preprocessing scripts.
-
-models/ — Model training and evaluation code.
-
-notebooks/ — Exploratory data analysis and experiments.
-
-requirements.txt — Project dependencies.
+```
+## Usage
+-Collect or generate eye-tracking and speech data.
+-Extract relevant features using the provided scripts.
+-Train the ADHD prediction model:
 
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
