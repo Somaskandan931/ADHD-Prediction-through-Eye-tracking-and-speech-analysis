@@ -25,9 +25,9 @@ ADHD is a common neurodevelopmental disorder characterized by inattention, hyper
 pip install -r requirements.txt
 ```
 ## Usage
--Collect or generate eye-tracking and speech data.
--Extract relevant features using the provided scripts.
--Train the ADHD prediction model:
+- Collect or generate eye-tracking and speech data.
+- Extract relevant features using the provided scripts.
+- Train the ADHD prediction model:
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
